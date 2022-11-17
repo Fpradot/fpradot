@@ -5,11 +5,10 @@
 - 🔭 I’m currently working on this page. 
 
 <div>
-<a href="https://github.com/Fpradot">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Fpradot&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Fpradot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/fpradot">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpradot&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fpradot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
   
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/107155081/202574542-61cac007-0a6c-44dc-8d57-32427d362019.svg)
