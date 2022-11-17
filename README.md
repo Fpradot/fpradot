@@ -7,4 +7,4 @@
 
 
 
-https://raw.githubusercontent.com/mjuliacsouza/mjuliacsouza/aaf9855734ec9b523a06677bae7389fddbc80dcf/github-contribution-grid-snake.svg
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/107155081/202574542-61cac007-0a6c-44dc-8d57-32427d362019.svg)
